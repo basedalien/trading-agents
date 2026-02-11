@@ -185,18 +185,5 @@ See `tradingagents/default_config.py` for all configuration options.
 
 We welcome contributions from the community! Whether it's fixing a bug, improving documentation, or suggesting a new feature, your input helps make this project better. If you are interested in this line of research, please consider joining our open-source financial AI research community [Tauric Research](https://tauric.ai/).
 
-## Citation
-
-Please reference our work if you find *TradingAgents* provides you with some help :)
-
-```
-@misc{xiao2025tradingagentsmultiagentsllmfinancial,
-      title={TradingAgents: Multi-Agents LLM Financial Trading Framework}, 
-      author={Yijia Xiao and Edward Sun and Di Luo and Wei Wang},
-      year={2025},
-      eprint={2412.20138},
-      archivePrefix={arXiv},
-      primaryClass={q-fin.TR},
-      url={https://arxiv.org/abs/2412.20138}, 
-}
-```
+seo:  
+tradingagents llm financial trading framework github multi agent trading system ai trading bot open source trading agents python trading agents installation trading agents download windows trading agents cli usage trading agents package python trading agents demo youtube trading agents langchain trading agents llm providers trading agents openai google gemini anthropic claude xai grok openrouter ollama trading agents technical analysis sentiment analysis fundamental analysis risk management portfolio management trading agents research paper arxiv trading agents citation trading agents contribute tauric research financial ai trading agents download release trading agents configuration trading agents api keys alpha vantage trading agents cli example trading agents notebook trading agents tutorial trading agents advanced usage trading agents custom config trading agents debata rounds trading agents llm models trading agents deep think llm quick think llm trading agents nvda stock trading agents 2026 trading agents 2025 trading agents multi provider llm support trading agents system architecture trading agents trading r1 technical report trading agents terminal release trading agents open source framework trading agents community github trading agents discord trading agents wechat trading agents x twitter trading agents github community discourse
