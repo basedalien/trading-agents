@@ -43,6 +43,8 @@
 [View All Releases](https://github.com/Fincept-Corporation/FinceptTerminal/releases)
 <!-- DOWNLOAD_SECTION_END -->
 
+---
+
 
 > 🎉 **TradingAgents** officially released! We have received numerous inquiries about the work, and we would like to express our thanks for the enthusiasm in our community.
 >
