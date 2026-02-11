@@ -31,6 +31,18 @@
 - [2026-02] **TradingAgents v0.2.0** released with multi-provider LLM support (GPT-5.x, Gemini 3.x, Claude 4.x, Grok 4.x) and improved system architecture.
 - [2026-01] **Trading-R1** [Technical Report](https://arxiv.org/abs/2509.11420) released, with [Terminal](https://github.com/TauricResearch/Trading-R1) expected to land soon.
 
+<!-- DOWNLOAD_SECTION_START -->
+## Download Latest Release
+
+**Version:** `v3.3.0`
+
+| Platform | Architecture | Download |
+|----------|-------------|----------|
+| **Windows** | x64 | [Download](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v3.3.0/FinceptTerminal-v3.3.0-Windows-x64.msi) |
+
+[View All Releases](https://github.com/Fincept-Corporation/FinceptTerminal/releases)
+<!-- DOWNLOAD_SECTION_END -->
+
 
 > 🎉 **TradingAgents** officially released! We have received numerous inquiries about the work, and we would like to express our thanks for the enthusiasm in our community.
 >
